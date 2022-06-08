@@ -7,3 +7,4 @@ Project Repository.
 
 | # | Project | Live Demo |
 | :-: | ----------- | -------- |
+| 01 | [Expanding Cards](https://github.com/vipuljain08/50Projects50Days/tree/master/expanding-cards) | [Live Demo](https://50projects50days.com/projects/expanding-cards/) 
